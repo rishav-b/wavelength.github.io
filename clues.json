@@ -52,10 +52,6 @@
         "Finger Food"
     ],
     [
-        "Want",
-        "Need"
-    ],
-    [
         "Weird Thing to Own",
         "Normal Thing to Own"
     ],
@@ -128,7 +124,7 @@
         "Perfect First Date Spot"
     ],
     [
-        "Awkward Conversation Topic",
+        "Boring Conversation Topic",
         "Engaging Conversation Topic"
     ],
     [
@@ -173,7 +169,7 @@
     ],
     [
         "Terrible Supervillain Name",
-        "Awesome Superhero Name"
+        "Awesome Supervillain Name"
     ],
     [
         "Worst Flavor",
@@ -232,7 +228,7 @@
         "Crowd-Pleasing Karaoke Song"
     ],
     [
-        "Annoying Social Media Trend",
+        "Lame Social Media Trend",
         "Fun Social Media Trend"
     ],
     [
@@ -280,11 +276,11 @@
         "Thrilling Theme Park Ride"
     ],
     [
-        "Annoying Pet Trick",
+        "Lame Pet Trick",
         "Impressive Pet Trick"
     ],
     [
-        "Terrible Workout",
+        "Useless Workout",
         "Effective Workout"
     ],
     [
@@ -292,12 +288,8 @@
         "Addictive Board Game"
     ],
     [
-        "Annoying Habit",
-        "Endearing Quirk"
-    ],
-    [
-        "Terrible Prank",
-        "Harmless Prank"
+        "Lame Prank",
+        "Diabolical Prank"
     ],
     [
         "Worst Cereal Mascot",
@@ -316,7 +308,7 @@
         "Must-Have Toy"
     ],
     [
-        "Annoying TV Character",
+        "Forgettable TV Character",
         "Fan-Favorite TV Character"
     ],
     [
@@ -325,14 +317,14 @@
     ],
     [
         "Worst Ice Cream Flavor",
-        "Innovative Ice Cream Flavor"
+        "Best Ice Cream Flavor"
     ],
     [
-        "Annoying Text Abbreviation",
+        "Useless Text Abbreviation",
         "Useful Text Abbreviation"
     ],
     [
-        "Terrible Costume Idea",
+        "Lame Costume Idea",
         "Creative Costume Idea"
     ],
     [
@@ -397,26 +389,102 @@
     ],
     [
         "Worst Bathroom Graffiti",
-        "Profound Bathroom Graffiti"
+        "Best Bathroom Graffiti"
     ],
     [
         "Annoying Concert Behavior",
         "Considerate Concert Behavior"
     ],
     [
-        "Terrible Hogwarts House",
-        "Best Hogwarts House"
-    ],
-    [
         "Worst Reason to Get a Pet",
-        "Great Reason to Get a Pet"
+        "Best Reason to Get a Pet"
     ],
     [
         "Annoying Email Subject Line",
-        "Attention-Grabbing Email Subject Line"
+        "Funny Email Subject Line"
     ],
     [
         "Terrible Wifi Network Name",
         "Clever Wifi Network Name"
+    ],
+    [
+        "Social Suicide",
+        "Trendsetter Move"
+    ],
+    [
+        "Dry Texter",
+        "Paragraph Sender"
+    ],
+    [
+        "Lame School Assembly",
+        "Hype School Assembly"
+    ],
+    [
+        "Strict Teacher",
+        "\"Cool\" Teacher"
+    ],
+    [
+        "Worst Place to Hang Out",
+        "The Spot"
+    ],
+    [
+        "Awkward Hallway Encounter",
+        "Smooth Hallway Walk"
+    ],
+    [
+        "Fake Friend",
+        "Ride or Die"
+    ],
+    [
+        "Useless Elective",
+        "Life-Skill Elective"
+    ],
+    [
+        "Academic Victim",
+        "Academic Weapon"
+    ],
+    [
+        "Worst Time for a Pop Quiz",
+        "Best Time for a Pop Quiz"
+    ],
+    [
+        "Cringe TikTok Trend",
+        "Elite TikTok Trend"
+    ],
+    [
+        "Bad Song",
+        "Good Song"
+    ],
+    [
+        "Worst Brain Rot Slang",
+        "Actually Useful Slang"
+    ],
+    [
+        "Basic Profile Pic",
+        "Fire Profile Pic"
+    ],
+    [
+        "Movie Spoiler",
+        "Useful Information"
+    ],
+    [
+        "Gas Station Snack",
+        "Gourmet Meal"
+    ],
+    [
+        "Fit Check Fail",
+        "Best Fit of the Year"
+    ],
+    [
+        "Total \"NPC\"",
+        "Icon"
+    ],
+    [
+        "Worst After-School Job",
+        "Dream High School Job"
+    ],
+    [
+        "Lame Senior Prank",
+        "Legendary Senior Prank"
     ]
 ]
